@@ -8,15 +8,15 @@ Read more at [this link](https://github.com/nextflow-io/nextflow/discussions/252
 
 1. Recurse a process a fixed amount times: 
 
-    nextflow run nf-recursion/times.nf
+        nextflow run nf-recursion/times.nf
 
 2. Recurse a process until a condition is verified: 
 
-    nextflow run nf-recursion/until.nf
+        nextflow run nf-recursion/until.nf
 
 3. Scan over a process: 
 
-    nextflow run nf-recursion/scan_files.nf
+        nextflow run nf-recursion/scan_files.nf
     
 
 ### Try it 
