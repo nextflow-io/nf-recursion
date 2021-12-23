@@ -1,0 +1,8 @@
+tasks:
+  - name: nextflow
+    env:
+      NXF_VER: 21.12.1-edge
+    command: |
+      curl get.nextflow.io | bash
+      ./nextflow -self-updaye
+      sudo mv nextflow /usr/local/bin
