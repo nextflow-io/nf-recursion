@@ -21,4 +21,4 @@ Read more at [this link](https://github.com/nextflow-io/nextflow/discussions/252
 
 ### Try it 
 
-Try it now on Gitpod using [this link](https://github.com/nextflow-io/nf-recursion).
+Try it now on Gitpod using [this link](https://gitpod.io/#https://github.com/nextflow-io/nf-recursion).
